@@ -1,7 +1,7 @@
 # Minard Visualization Reproduction
 ## Minard's Chart of Napoleon's Russian Campaign reproduction Using Matplotlib (Python) and Tableau
 
-This project is a reproduction of the famous [Minard's chart](https://commons.wikimedia.org/wiki/File:Minard.png#/media/File:Minard.png)  by [Charles Minard](https://en.wikipedia.org/wiki/Charles_Joseph_Minard), which depicts Napoleon’s Russian Campaign of 1812. The chart shows the geographical route of Napoleon’s army and the number of soldiers over time, illustrating the devastating losses throughout the campaign. 
+This project is a reproduction of the famous [Minard's chart](https://commons.wikimedia.org/wiki/File:Minard.png#/media/File:Minard.png)  by [Charles Joseph Minard](https://en.wikipedia.org/wiki/Charles_Joseph_Minard), which depicts Napoleon’s Russian Campaign of 1812. The chart shows the geographical route of Napoleon’s army and the number of soldiers over time, illustrating the devastating losses throughout the campaign. 
 
 The chart was recreated using **Matplotlib** in Python for static visualization and **Tableau** for an interactive version, which allows users to explore the campaign data in more detail.
 
