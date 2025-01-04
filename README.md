@@ -10,7 +10,7 @@ The data used for the visualization comes from the [Minard's chart of Napoleon's
 For more details, check out the related [Medium article](https://amitamola.medium.com/minards-chart-using-matplotlib-in-python-fbe8865cad78) for this project.
 
 
-Below is a screenshot of the original Minard's chart, which inspired this project:
+Below is a screenshot of the original Minard's 1869 chart, which inspired this project:
 
 ![Original Minard's Chart](https://github.com/RaphaelHoudouin/minard-visualization-reproduction/blob/main/screenshots/minard_chart.png) 
 *Source: Charles Joseph Minard’s 1868 visualization of Napoleon’s Russian Campaign of 1812.*
