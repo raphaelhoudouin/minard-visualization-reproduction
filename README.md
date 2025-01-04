@@ -11,7 +11,7 @@ For more details, check out the related [Medium article](https://amitamola.mediu
 
 ---
 
-## 🛠 Tools Used:
+## Tools Used:
 - **Matplotlib (Python):** For static data visualization.
 - **Tableau:** For creating an interactive version of the chart.
 - **Data:** Minard’s original campaign data.
@@ -19,7 +19,7 @@ For more details, check out the related [Medium article](https://amitamola.mediu
 
 ---
 
-## 📊 The Final Results:
+## The Final Results:
 1. **Matplotlib Static Visualization:**  
    A faithful reproduction of Minard's chart showing the route and troop losses.  
    ![Minard's Chart of Napoleon's Russian Campaign (Matplotlib)](https://github.com/RaphaelHoudouin/minard-visualization-reproduction/blob/main/screenshots/Minard_Visualization_Reproduction.png)
@@ -30,6 +30,6 @@ For more details, check out the related [Medium article](https://amitamola.mediu
 
 ---
 
-## 🌱 Learn More:
+## Learn More:
 Minard’s Chart: Read about Minard’s original chart.
 Napoleon’s 1812 Russian Campaign: Read about the historical campaign.
