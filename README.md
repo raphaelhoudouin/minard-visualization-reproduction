@@ -7,7 +7,7 @@ The chart was recreated using **Matplotlib** in Python for static visualization 
 
 The data used for the visualization comes from the [Minard's chart of Napoleon's Russian campaign dataset](https://www.rpubs.com/Minh_Bui/257561).
 
-For more details, check out the related [Medium article](https://amitamola.medium.com/minards-chart-using-matplotlib-in-python-fbe8865cad78).
+For more details, check out the related [Medium article](https://amitamola.medium.com/minards-chart-using-matplotlib-in-python-fbe8865cad78) for this project.
 
 ---
 
