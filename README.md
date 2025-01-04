@@ -13,7 +13,7 @@ For more details, check out the related [Medium article](https://amitamola.mediu
 Below is a screenshot of the original Minard's chart, which inspired this project:
 
 ![Original Minard's Chart](https://github.com/RaphaelHoudouin/minard-visualization-reproduction/blob/main/screenshots/minard_chart.png) 
-*Source: Charles Joseph Minard's visualization of Napoleon's Russian Campaign*
+*Source: Charles Joseph Minard’s 1868 visualization of Napoleon’s Russian Campaign of 1812.*
 
 ---
 
