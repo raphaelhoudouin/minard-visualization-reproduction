@@ -5,7 +5,7 @@ This project is a reproduction of the famous [Minard's chart](https://commons.wi
 
 The chart was recreated using **Matplotlib** in Python for static visualization and **Tableau** for an interactive version, which allows users to explore the campaign data in more detail.
 
-The data used for the visualization comes from the [Minard's chart of Napoleon's Russian campaign dataset](https://www.rpubs.com/Minh_Bui/257561).
+The data used for the visualization comes from the [Minard's chart of Napoleon's Russian campaign dataset](https://www.key2stats.com/data-set/view/898).
 
 For more details, check out the related [Medium article](https://amitamola.medium.com/minards-chart-using-matplotlib-in-python-fbe8865cad78) for this project.
 
