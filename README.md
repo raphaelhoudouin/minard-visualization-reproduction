@@ -22,7 +22,7 @@ For more details, check out the related [Medium article](https://amitamola.mediu
 ## 📊 The Final Results:
 1. **Matplotlib Static Visualization:**  
    A faithful reproduction of Minard's chart showing the route and troop losses.  
-   ![Minard's Chart of Napoleon's Russian Campaign (Matplotlib)](https://github.com/RaphaelHoudouin/minard-visualization-reproduction/blob/main/screenshots/Minard_Visualization_Reproduction.png).
+   ![Minard's Chart of Napoleon's Russian Campaign (Matplotlib)](https://github.com/RaphaelHoudouin/minard-visualization-reproduction/blob/main/screenshots/Minard_Visualization_Reproduction.png)
 
 2. **Interactive Tableau Visualization:**  
    Explore the campaign in an interactive format using Tableau.  
