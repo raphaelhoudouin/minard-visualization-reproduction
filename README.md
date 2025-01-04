@@ -43,3 +43,9 @@ Below is a screenshot of the original Minard's chart, which inspired this projec
 
 - [Napoleon’s 1812 Russian Campaign](https://en.wikipedia.org/wiki/French_invasion_of_Russia)  
   Read about the historical campaign and its devastating impact.
+
+
+## Contact
+
+For any questions or feedback, please contact the project maintainer: **RaphaelHoudouin**.  
+GitHub: [RaphaelHoudouin](https://github.com/RaphaelHoudouin)
