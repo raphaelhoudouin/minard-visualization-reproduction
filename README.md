@@ -36,6 +36,10 @@ Below is a screenshot of the original Minard's chart, which inspired this projec
 
 ---
 
+
 ## Learn More:
-Minard’s Chart: Read about Minard’s original chart.
-Napoleon’s 1812 Russian Campaign: Read about the historical campaign.
+- [Minard's Chart](https://en.wikipedia.org/wiki/Charles_Joseph_Minard)  
+  Read about Minard’s original chart and its unique design.
+
+- [Napoleon’s 1812 Russian Campaign](https://en.wikipedia.org/wiki/French_invasion_of_Russia)  
+  Read about the historical campaign and its devastating impact.
