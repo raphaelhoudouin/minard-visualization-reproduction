@@ -33,7 +33,7 @@ Below is a screenshot of the original Minard's chart, which inspired this projec
 2. **Interactive Tableau Visualization**  
 Explore the campaign in an interactive format using Tableau.
 
-![Interactive Tableau Visualization](https://github.com/RaphaelHoudouin/minard-visualization-reproduction/blob/main/screenshots/minard_visualization_reproduction_tableau.png)  
+![Interactive Tableau Visualization](https://github.com/RaphaelHoudouin/minard-visualization-reproduction/blob/main/screenshots/minard_visualization_reproduction_tableau.png)
 *Screenshot of the interactive Tableau visualization.*
 
 
