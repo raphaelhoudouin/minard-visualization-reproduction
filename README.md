@@ -30,9 +30,12 @@ Below is a screenshot of the original Minard's chart, which inspired this projec
    A faithful reproduction of Minard's chart showing the route and troop losses.  
    ![Minard's Chart of Napoleon's Russian Campaign (Matplotlib)](https://github.com/RaphaelHoudouin/minard-visualization-reproduction/blob/main/screenshots/minard_visualization_reproduction.png)
 
-2. **Interactive Tableau Visualization:**  
-   Explore the campaign in an interactive format using Tableau.  
-   [View the interactive version on Tableau Public](#)
+2. **Interactive Tableau Visualization**  
+Explore the campaign in an interactive format using Tableau.
+
+![Interactive Tableau Visualization](https://github.com/RaphaelHoudouin/minard-visualization-reproduction/blob/main/screenshots/minard_visualization_reproduction_tableau.png)  
+*Screenshot of the interactive Tableau visualization.*
+
 
 ---
 
