@@ -51,4 +51,4 @@ Explore the campaign in an interactive format using Tableau.
 ## Contact
 
 For any questions or feedback, please contact the project maintainer: **RaphaelHoudouin**.  
-GitHub: [RaphaelHoudouin](https://github.com/RaphaelHoudouin).
+GitHub: [raphaelhoudouin](https://github.com/raphaelhoudouin).
